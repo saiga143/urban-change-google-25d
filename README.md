@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15203081.svg)](https://doi.org/10.5281/zenodo.15203081)
+
 # Urban Change Detection in Informal Settlements Using Google’s 2.5D Dataset
 
 This repository contains code and data processing workflows developed for the paper:
