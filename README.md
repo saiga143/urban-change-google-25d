@@ -37,3 +37,33 @@ You can replicate the environment using:
 ```bash
 conda env create -f environment.yml
 conda activate deprimap-urbanchange
+```
+---
+
+## 📦 Datasets
+* Google Open Buildings 2.5D Temporal Dataset (2016-2023) - https://sites.research.google/gr/open-buildings/temporal/
+* Nairobi Slum boundaries from IDEAtlas and IDEAMAPS Network (https://www.ideamapsnetwork.org/)
+* Nairobi administrative boundaries from HDX - https://data.humdata.org/dataset/cod-ab-ken
+* Google Earth Pro and Google Street View for validation imagery
+
+**Note:** The data files are not hosted in this repository due to sensitive nature of data and permission restrictions.
+
+---
+
+## 📝 Citation
+If you use or build upon this work, please cite the paper and link to this repostiory.
+
+---
+
+## 📄 License
+This code is licensed under the MIT License.
+
+---
+
+## 🙏 Acknowledgements
+This work is supported by:
+* FORMAS (Swedish Research Council for Sustainable Development), project DEPRIMAP (2023-01210) (https://sola.kau.se/deprimap/)
+* BELSPO (Belgian Federal Science Policy), project DynoEO4SLUMS (SR/11/419)
+* Erasmus+ Staff Mobility Grant from Karlstad University (support for EARSeL 2025 participation)
+* Thanks to IDEAtlas and IDEAMAPS Network for slum reference data
+
