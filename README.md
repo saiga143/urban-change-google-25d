@@ -35,7 +35,7 @@ The repository is structured as follows:
 You can replicate the environment using:
 
 ```bash
-conda env create -f environment.yml
+conda env create -f environment.yaml
 conda activate deprimap-urbanchange
 ```
 ---
