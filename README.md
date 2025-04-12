@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15203081.svg)](https://doi.org/10.5281/zenodo.15203081)
 
-# Urban Change Detection in Informal Settlements Using Google’s 2.5D Dataset
+# 🏙️ Urban Change Detection in Informal Settlements Using Google’s 2.5D Dataset
 
 This repository contains code and data processing workflows developed for the paper:
 
@@ -15,9 +15,16 @@ Informal settlements are rapidly evolving, especially in cities of the Global So
 
 This project explores the potential of [Google’s Open Buildings 2.5D Temporal Dataset (2016–2023)](https://sites.research.google/gr/open-buildings/temporal) to detect urban change patterns within Nairobi’s informal settlements. It uses both **building count** and **average height** to classify urban change, and validates results using a novel combination of **Google Earth satellite imagery** and **Google Street View**.
 
+Using changes in **building count** and **building height**, the analysis identifies patterns like:
+
+- 📈 Vertical Densification  
+- ➕ Horizontal Densification  
+- 🏗️ High Densification  
+- 📉 Decline  
+
 ---
 
-## 🧪 Scripts
+## 📂 Scripts
 
 The repository is structured as follows:
 
@@ -47,8 +54,22 @@ conda activate deprimap-urbanchange
 * Nairobi administrative boundaries from HDX - https://data.humdata.org/dataset/cod-ab-ken
 * Google Earth Pro and Google Street View for validation imagery
 
-**Note:** The data files are not hosted in this repository due to size, sensitive nature of data and permission restrictions.
+**Note:** This repo does not include raw data files due to size and licensing constraints.
 
+---
+
+## 🧪 Validation
+A total of 154 grid cells were manually validated using both satellite and street-level imagery. The workflow supports exporting selected validation areas in KML format for easy visual inspection.
+
+---
+
+## 📊 Outputs
+- Spatial classification of urban change
+- Top 5 slum areas per change category
+- Comparative analysis across 3 spatial zones:
+    - Informal settlements
+    - 100m buffer rings
+    - Rest of the city
 ---
 
 ## 📝 Citation
