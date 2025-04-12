@@ -46,7 +46,7 @@ conda activate deprimap-urbanchange
 * Nairobi administrative boundaries from HDX - https://data.humdata.org/dataset/cod-ab-ken
 * Google Earth Pro and Google Street View for validation imagery
 
-**Note:** The data files are not hosted in this repository due to sensitive nature of data and permission restrictions.
+**Note:** The data files are not hosted in this repository due to size, sensitive nature of data and permission restrictions.
 
 ---
 
