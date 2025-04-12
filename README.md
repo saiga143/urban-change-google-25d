@@ -15,11 +15,11 @@ This project explores the potential of [Google’s Open Buildings 2.5D Temporal 
 
 ---
 
-## 🧪 Notebooks
+## 🧪 Scripts
 
 The repository is structured as follows:
 
-| Notebook | Description |
+| Scripts | Description |
 |----------|-------------|
 | `1_download_data_gee.js` | Script for downloading Google 2.5D data using Google Earth Engine |
 | `2_zonal_stats_count_height.ipynb` | Calculates building count and height per 100m grid |
