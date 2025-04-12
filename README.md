@@ -23,10 +23,9 @@ The repository is structured as follows:
 |----------|-------------|
 | `1_download_data_gee.js` | Script for downloading Google 2.5D data using Google Earth Engine |
 | `2_zonal_stats_count_height.ipynb` | Calculates building count and height per 100m grid |
-| `3_change_classification.ipynb` | Computes change classes and thresholds |
-| `4_urban_change_typology.ipynb` | Derives 8-category urban change typology |
-| `5_top5_slum_stats.ipynb` | Identifies top 5 slums by area and prepares validation stats |
-| `6_city_context_analysis.ipynb` | Spatial zone delineation (slum, buffer, other regions) and analysis |
+| `3_urban_change_typology.ipynb` | Computes change classes & derives 8 urban change categories |
+| `4_top5_slum_stats.ipynb` | Identifies top 5 slums by area and prepares validation stats |
+| `5_city_context_analysis.ipynb` | Spatial zone delineation (slum, buffer, other regions) and analysis |
 
 ---
 
