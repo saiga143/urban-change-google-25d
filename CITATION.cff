@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Veeravalli"
+  given-names: "Sai Ganesh"
+  orcid: "https://orcid.org/0000-0002-1670-8703"
+title: "Codebase for urban change detection in informal settlements using Google's 2.5D dataset"
+version: 1.0
+doi: 10.5281/zenodo.15203081
+date-released: 2025-04-12
+url: "https://doi.org/10.5281/zenodo.15203081"
