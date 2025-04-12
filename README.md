@@ -52,7 +52,12 @@ conda activate deprimap-urbanchange
 ---
 
 ## 📝 Citation
-If you use or build upon this work, please cite the paper and link to this repostiory.
+If you use or build upon this work, please cite the paper and link to this repository.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15203081.svg)](https://doi.org/10.5281/zenodo.15203081)
+
+Sai Ganesh Veeravalli. (2025). Codebase for urban change detection in informal settlements using Google's 2.5D dataset (v1.0). Zenodo. https://doi.org/10.5281/zenodo.15203081
+
 
 ---
 
