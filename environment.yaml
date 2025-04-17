@@ -16,4 +16,5 @@ dependencies:
   - esda
   - fiona
   - matplotlib-scalebar
+  - osgeo
 
