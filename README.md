@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15203081.svg)](https://doi.org/10.5281/zenodo.15203081)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15269825.svg)](https://doi.org/10.5281/zenodo.15269825)
 
 # 🏙️ Urban Change Detection in Informal Settlements Using Google’s 2.5D Dataset
 
@@ -75,10 +75,9 @@ A total of 154 grid cells were manually validated using both satellite and stree
 ## 📝 Citation
 If you use or build upon this work, please cite the paper and link to this repository.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15203081.svg)](https://doi.org/10.5281/zenodo.15203081)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15269825.svg)](https://doi.org/10.5281/zenodo.15269825)
 
-Sai Ganesh Veeravalli. (2025). Codebase for urban change detection in informal settlements using Google's 2.5D dataset (v1.0). Zenodo. https://doi.org/10.5281/zenodo.15203081
-
+Veeravalli, S. G. (2025). Codebase for urban change detection in informal settlements using Google's 2.5D dataset (v1.1). Zenodo. https://doi.org/10.5281/zenodo.15269825
 
 ---
 
