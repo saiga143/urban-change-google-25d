@@ -98,7 +98,7 @@ This code is licensed under the MIT License.
 ## 🙏 Acknowledgements
 This work is supported by:
 * FORMAS (Swedish Research Council for Sustainable Development), project DEPRIMAP (2023-01210) (https://sola.kau.se/deprimap/)
-* BELSPO (Belgian Federal Science Policy), project DynoEO4SLUMS (SR/11/419)
+* BELSPO (Belgian Federal Science Policy), project DynoEO4SLUMS (SR/11/419) (https://dyneo4slums.ulb.be/)
 * Erasmus+ Staff Mobility Grant from Karlstad University (support for EARSeL 2025 participation)
 * Thanks to IDEAtlas and IDEAMAPS Network for slum reference data
 
