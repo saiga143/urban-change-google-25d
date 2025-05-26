@@ -82,7 +82,11 @@ If you use or build upon this work, please cite the paper and link to this repos
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15269825.svg)](https://doi.org/10.5281/zenodo.15269825)
 
+**Zenodo Repository citation:**
 Veeravalli, S. G. (2025). Codebase for urban change detection in informal settlements using Google's 2.5D dataset (v1.1). Zenodo. https://doi.org/10.5281/zenodo.15269825
+
+**Research paper citation:**
+Veeravalli, S. G., Haas, J., Friesen, J., and Georganos, S.: Understanding Informal Settlement Transformation through Google’s 2.5D Dataset and Street View based Validation, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-7-2025, 245–251, https://doi.org/10.5194/isprs-archives-XLVIII-M-7-2025-245-2025, 2025.
 
 ---
 
