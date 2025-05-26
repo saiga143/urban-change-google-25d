@@ -102,3 +102,4 @@ This work is supported by:
 * Erasmus+ Staff Mobility Grant from Karlstad University (support for EARSeL 2025 participation)
 * Thanks to IDEAtlas and IDEAMAPS Network for slum reference data
 
+![image](https://github.com/user-attachments/assets/ce6a1d0b-4a85-42e6-8183-bd8efd927ad6)
