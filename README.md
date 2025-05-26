@@ -7,6 +7,11 @@ This repository contains code and data processing workflows developed for the pa
 **“Understanding Informal Settlement Transformation Through Google’s 2.5D Dataset and Street View–Based Validation”**  
 (*Presented at the 8th EARSeL Workshop on Earth Observation for the Global South*)
 
+Full paper link: https://isprs-archives.copernicus.org/articles/XLVIII-M-7-2025/245/2025/isprs-archives-XLVIII-M-7-2025-245-2025.html
+
+How to cite:
+Veeravalli, S. G., Haas, J., Friesen, J., and Georganos, S.: Understanding Informal Settlement Transformation through Google’s 2.5D Dataset and Street View based Validation, Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XLVIII-M-7-2025, 245–251, https://doi.org/10.5194/isprs-archives-XLVIII-M-7-2025-245-2025, 2025.
+
 ---
 
 ## 🌍 Overview
